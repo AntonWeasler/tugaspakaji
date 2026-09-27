@@ -1,0 +1,3 @@
+Hello from rank 1 of 2 on ANTON-LAPTOP
+Hello from rank 0 of 2 on ANTON-LAPTOP
+CHECK ranks=2 sum=1 expected=1
