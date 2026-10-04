@@ -1,0 +1,10 @@
+# Compiled MPI executables
+/slurm-lab/mpi_hello
+/slurm-lab/mpi_pi
+
+# Slurm runtime output
+/slurm-lab/logs/
+/slurm-lab/results/
+
+# Windows metadata
+*:Zone.Identifier
